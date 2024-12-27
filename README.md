@@ -3,6 +3,7 @@
 ### TODO
 
 - [x] Inference Code
+- [x] Pretrained Model
 - [ ] README
 - [ ] Training Code
 

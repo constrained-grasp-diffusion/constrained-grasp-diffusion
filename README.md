@@ -34,6 +34,7 @@ CUDA_VISIBLE_DEVICES=0 python scripts/sample/generate_6d_grasp_poses.py --n_gras
 CUDA_VISIBLE_DEVICES=0 python scripts/sample/generate_part_guided_6d_grasp_poses.py --n_grasps 300 --model cgdf_v1 --input demo/data/meshes/15847850d132460f1fb05d58f51ec4fa.obj
 
 ```
+The generated grasps are saved as a mesh containing the object and gripper markers in `output_mesh.obj`.
 
 ## 👏 Acknowledgement
 

@@ -12,6 +12,7 @@ This is the official implementation of the paper _"Constrained 6-DoF Grasp Gener
 
 ### Clone the repository
 
+The pretrained checkpoint is in the `demo/data/models/cgdf_v1` directory. Please use `git lfs` to clone the repository as follows:
 ```
 git lfs install
 git clone https://github.com/constrained-grasp-diffusion/constrained-grasp-diffusion.git

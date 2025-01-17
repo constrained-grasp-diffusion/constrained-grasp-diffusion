@@ -1,1 +1,0 @@
-demo/data/models/cgdf_v1/model.pth filter=lfs diff=lfs merge=lfs -text

@@ -15,11 +15,11 @@ with open(path.join(here, 'requirements.txt'), encoding='utf-8') as f:
         requires_list.append(str(line))
 
 
-setup(name='cgdf',
+setup(name='se3dif',
       version=__version__,
       description='Constrained Grasp Diffusion Fields',
       author='Gaurav Singh',
       author_email='gaurav@brown.edu',
-      packages=['cgdf'],
+      packages=['se3dif'],
       install_requires=requires_list,
       )

@@ -8,9 +8,6 @@
 
 This is the official implementation of the paper _"Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation"_ accepted at **IROS 2024**
 
-## 🔥 Update
-We released [DAGDiff](https://github.com/DAG-Diff/dual-arm-grasp-diffusion), a dual-arm improved version trained with collision and dual-arm constraints on a dataset with force-optimized grasps.
-
 ## Installation
 
 ### Clone the repository
@@ -55,3 +52,7 @@ If you find our work useful, please consider citing us!
   year={2024}
 }
 ```
+
+## Follow up work
+We released [DAGDiff](https://github.com/DAG-Diff/dual-arm-grasp-diffusion), a dual-arm grasp generator trained on a dataset with force-optimized grasps.
+
